@@ -2,12 +2,12 @@
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<OutputType>library</OutputType>
-		<PackageId>AnLachaBacach.AuthenticatorServices</PackageId>
+		<PackageId>Insight-Integration-Services-APAC.AuthenticatorServices</PackageId>
 		<Version>1.0.0</Version>
 		<Authors>Martin Montgomery</Authors>
 		<Company>Insight</Company>
 		<PackageDescription>Complete later</PackageDescription>
-		<RepositoryUrl>https://github.com/AnLachaBacach/AuthenticatorServices</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Insight-Integration-Services-APAC/AuthenticatorServices</RepositoryUrl>
   </PropertyGroup> 
 
   <ItemGroup>
