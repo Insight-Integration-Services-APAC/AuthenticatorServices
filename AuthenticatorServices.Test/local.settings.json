@@ -1,0 +1,15 @@
+﻿{
+  "AppSettings": {
+    "AuthenticatorService": {
+      "Settings": [
+        {
+          "AuthorisationUrl": "https://login.microsoftonline.com/d92123ce-0eea-489a-85ca-bb4e3dc51e8d/oauth2/v2.0/token",
+          "Endpoint": "http://google.com",
+          "Scopes": "https://dev.ccrm.bunnings.com.au/.default",
+          "ClientId": "64e55a07-52ca-4b42-9e9e-cbf79e952886",
+          "ClientSecret": "Jo.5lXqilo5CGT2y-xaog.f0Y6-z7nc.4d"
+        }
+      ]
+    }
+  }
+}
