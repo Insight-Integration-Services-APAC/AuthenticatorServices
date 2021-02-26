@@ -17,6 +17,7 @@ namespace AuthenticatorServices.Test
 
             var configuration = builder.Build();
             services.AddScoped<AuthenticatorEndpointHandler>();
+
             services.AddAuthenticationServices(configuration.GetSection("AppSettings:AuthenticatorService"));
 
             services.AddHttpClient<ITestClient, TestClient>(client =>
