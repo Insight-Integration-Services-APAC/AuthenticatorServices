@@ -26,6 +26,6 @@ jobs:
     - name: Pack
       run: dotnet pack --configuration Release
     - name: Upload Artifact
-      run: dotnet nuget push "AuthenticatorServices/bin/Release/Insight-Integration-Services-APAC.AuthenticatorServices.1.0.0.nupkg" --api-key 0 --source "https://nuget.pkg.github.com/Insight-Integration-Services-APAC/index.json"
+      run: dotnet nuget push "AuthenticatorServices/bin/Release/Insight-Integration-Services-APAC.AuthenticatorServices.1.0.0.nupkg" --api-key 33e139a4594727b1e77bb2fb21e47312aedea513 --source "https://nuget.pkg.github.com/Insight-Integration-Services-APAC/index.json"
       
 
